@@ -35,3 +35,11 @@ This project is about making an appointment system for Hartwick College's free t
 | BR-07 | Norwich appointments are on Fridays in February, and Utica appointments are on the first Friday in April. |
 | BR-08 | Binghamton appointments are on other Fridays during the operating season before April 15, except for Norwich and Utica dates. |
 | BR-09 | library and Friday service days can have up to 32 appointments. |
+
+## 5. Lab 13 Design Documents
+
+- [Updated requirements](requirement.md)
+- [Use Case Diagram](Design%20Diagrams/Use%20Case%20Diagram.svg) ([editable draw.io](Design%20Diagrams/Use%20Case%20Diagram.drawio))
+- [ERD](Design%20Diagrams/ERD.svg) ([editable draw.io](Design%20Diagrams/ERD.drawio))
+
+These are the planned requirements and diagrams for the final project. The full reservation system has not been built yet.
